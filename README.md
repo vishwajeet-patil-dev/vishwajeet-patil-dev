@@ -1,11 +1,79 @@
-# Hi, I'm Vishwajeet 👋🏾 👩🏾‍💻
+<h1 align="center">Hi 👋, I'm Vishwajeet Patil</h1>
+<h3 align="center">MERN Stack Developer | Automation Enthusiast | Immediate Joiner</h3>
 
-<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
-I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. In 2020, I was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.reactrobins.com/">React Robins</a>, a community for women and non-binary ReactJS developers.
+<p align="center">
+  <a href="mailto:official.vishupatil@gmail.com">✉️ Email</a> •
+  <a href="https://github.com/vishwajeet-patil-dev">🌐 GitHub</a> •
+  <a href="https://vishwajeet-patil-dev.github.io/portfolio" target="_blank">🔗 Portfolio</a>
+</p>
 
+---
 
-## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="right" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+### 🧑‍💻 About Me
+I'm a Pune-based Software Engineer with a proven track record of building production-grade SaaS platforms, KYC systems, CMS tools, and automation solutions using the **MERN stack**.  
+I bring backend-first expertise with **Node.js** & **Express.js**, complemented by solid frontend contributions using **React.js** and **Next.js**. I thrive in fast-paced startup environments where **ownership, impact, and delivery** matter most.
 
-- Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
-- Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
-- Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
+---
+
+### ⚡ Tech Stack & Tools
+
+- **Frontend:** React.js, Next.js, Tailwind CSS, EJS
+- **Backend:** Node.js, Express.js, REST APIs, GraphQL (basic)
+- **Database:** MongoDB, Mongoose, Firebase (basic)
+- **Languages:** JavaScript (ES6+), TypeScript, C++, DSA
+- **System Design:** Microservices (basic), Scalable Architectures
+- **Integrations:** Razorpay, Stripe, PayPal, PhonePe, Google Vision API, SMTP
+- **Automation:** Puppeteer, Chrome Extension Development
+- **Other Tools:** Git, GitHub, Postman, VS Code, Linux (Fedora)
+
+---
+
+### 🚀 Work Experience
+
+**MERN Stack Developer** – *Dreams Internationals, Pune*  
+📆 *Jan 2024 – Present*
+
+- Contributed to **10+ full-stack SaaS platforms**, dashboards & KYC systems using MERN stack.
+- Built **reusable frontend and backend modules**, enhancing scalability & developer velocity.
+- Automated real-world workflows like **WhatsApp messaging** using Puppeteer.
+- Integrated AWS S3, SMTP, and external APIs for advanced system capabilities.
+
+---
+
+### 🔨 Featured Projects
+
+#### 🎯 AI-Powered Resume Builder
+A smart resume generator that tailors resumes based on job descriptions using **OpenAI/Gemini APIs**  
+**Tech:** Node.js, MongoDB, Puppeteer, Express.js, EJS  
+✅ AI-generated content • PDF export • Resume version control
+
+#### 💼 Auto LinkedIn Job Applier
+A Puppeteer-based automation tool to apply to jobs on LinkedIn  
+**Tech:** Node.js, MongoDB, Express.js  
+✅ Smart filtering • Auto form-filling • Applied job tracking
+
+> 📌 More projects available on my [GitHub](https://github.com/vishwajeet-patil-dev)
+
+---
+
+### 🎓 Education
+
+**BCA – Shivaji University, Kolhapur**  
+📆 *2020 – 2023* | 🎓 *7.8 CGPA*
+
+**HSC – Maharashtra State Board**  
+📆 *Completed in 2020* | 🎓 *64%*
+
+---
+
+### 📫 Let's Connect!
+
+- 📧 Email: [official.vishupatil@gmail.com](mailto:official.vishupatil@gmail.com)  
+- 🔗 Portfolio: (https://vishwajeet-patil-dev.github.io/portfolio/)  
+- 💼 LinkedIn: [linkedin.com/in/vishwajeet-patil-591a01251](https://www.linkedin.com/in/vishwajeet-patil-591a01251/)
+
+---
+
+---
+
+⭐ *Thanks for visiting! Let's build something great together.*  
